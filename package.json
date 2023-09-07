@@ -38,6 +38,7 @@
     "lib"
   ],
   "dependencies": {
+    "expo-crypto": "^12.4.1",
     "uint8array-tools": "0.0.7"
   },
   "devDependencies": {
