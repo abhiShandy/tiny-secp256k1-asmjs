@@ -31,8 +31,7 @@
     "_stream_writable": "readable-stream/writable",
     "_stream_duplex": "readable-stream/duplex",
     "_stream_passthrough": "readable-stream/passthrough",
-    "stream": "stream-browserify",
-    "crypto": "react-native-crypto"
+    "stream": "stream-browserify"
   },
   "types": "./lib/index.d.ts",
   "files": [
@@ -75,7 +74,6 @@
     "_stream_writable": "readable-stream/writable",
     "_stream_duplex": "readable-stream/duplex",
     "_stream_passthrough": "readable-stream/passthrough",
-    "stream": "stream-browserify",
-    "crypto": "react-native-crypto"
+    "stream": "stream-browserify"
   }
 }
